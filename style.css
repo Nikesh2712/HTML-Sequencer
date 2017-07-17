@@ -1,0 +1,21 @@
+.row{
+margin-left:15%;
+}
+body{
+  background-image:url(http://media.istockphoto.com/photos/abstract-blue-background-picture-id478985058?k=6&m=478985058&s=612x612&w=0&h=eqE8R5TgMU5PwPvEeOsulrGkZaAUI7wdhzrJwF2TUp8=);
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  font-family: Josefin Sans;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+input{
+    font-family: Josefin Sans;
+}
+select{
+    font-family: Josefin Sans;
+}
